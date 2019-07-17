@@ -32,6 +32,10 @@ https://github.com/tgockel/zookeeper-cpp
 
 or zookeeper-client c: from the download packet directly
 
-### rapidjson: 
+### rapidjson: a c++ edition json parsing library
 
 https://github.com/Tencent/rapidjson
+
+### re2: a fast, safe, thread-friendly alternative to backtracking regular expression engines
+
+https://github.com/google/re2
