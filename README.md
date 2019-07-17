@@ -31,3 +31,7 @@ https://github.com/protocolbuffers/protobuf
 https://github.com/tgockel/zookeeper-cpp
 
 or zookeeper-client c: from the download packet directly
+
+### rapidjson: 
+
+https://github.com/Tencent/rapidjson
