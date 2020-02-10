@@ -44,3 +44,4 @@ https://github.com/google/re2
 ## SECURITY
 
 ### Toolkits https://github.com/Hack-with-Github/Awesome-Hacking
+### passlist https://github.com/danielmiessler/SecLists
